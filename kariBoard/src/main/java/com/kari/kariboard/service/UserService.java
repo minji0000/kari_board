@@ -1,0 +1,1 @@
+package com.kari.kariboard.service;import com.kari.kariboard.entity.UserEntity;import org.apache.ibatis.session.SqlSession;import org.springframework.beans.factory.annotation.Autowired;import org.springframework.stereotype.Service;// 기존에 컨트롤러에서 하던 로직을 다 여기로 옮기자 @Servicepublic class UserService {}
